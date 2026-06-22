@@ -1,0 +1,724 @@
+{
+  "profile": {
+    "name": "US",
+    "photo": "profile.jpg"
+  },
+  "memories": [
+    {
+      "id": "m_1782146489455_fcgl7",
+      "title": "Us, stronger than ever",
+      "desc": "And finally buggu, this is us, after our 1st meet, and till now. This has some of my fav ss of you over our VC. \nUs, STRONGER THAN EVER....",
+      "createdAt": 1782146489455,
+      "favorite": false,
+      "items": [
+        {
+          "type": "video",
+          "src": "m1_1.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_7.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_10.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_11.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_12.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_13.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_14.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_15.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_16.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_17.mp4"
+        },
+        {
+          "type": "video",
+          "src": "m1_18.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_19.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_20.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_21.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_22.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_23.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_24.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_25.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_26.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_28.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_29.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_30.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_31.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_32.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_33.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_34.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_35.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m1_36.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m1_37.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_38.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_39.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_40.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_41.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_42.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_43.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_44.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_45.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_46.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_47.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_48.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_49.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_50.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_51.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m1_52.jpg"
+        }
+      ],
+      "music": {
+        "src": "m1_music.mp3",
+        "name": "CHRISTINA PERRI - YOU ARE MY SUNSHINE [Lyric Video].mp3",
+        "loop": true,
+        "duck": true
+      }
+    },
+    {
+      "id": "m_1782145423052_khe90",
+      "title": "Our 1st meet up after our long LDR",
+      "desc": "This is the time we met in august 2025, for the 1st time after our LDR, god that was sooooooo longggg. Miss you alr, meet me naaaaaa",
+      "createdAt": 1782145423052,
+      "favorite": false,
+      "items": [
+        {
+          "type": "video",
+          "src": "m2_1.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m2_2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_5.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m2_6.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m2_7.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_10.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_11.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_12.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_13.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_14.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_15.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_16.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m2_17.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m2_18.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_19.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m2_20.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m2_21.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_22.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m2_23.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m2_24.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_25.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_26.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_28.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_29.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_30.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_31.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_32.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_33.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_34.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_35.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_36.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_37.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_38.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_39.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m2_40.jpg"
+        }
+      ],
+      "music": {
+        "src": "m2_music.mp3",
+        "name": "Vaaroon # Lyrics.mp3",
+        "loop": true,
+        "duck": true
+      }
+    },
+    {
+      "id": "m_1782144823465_fdqet",
+      "title": "1st three months part 2",
+      "desc": "Hi kiddo, here's our 1st  three beautiful months, part 2.",
+      "createdAt": 1782144823465,
+      "favorite": false,
+      "items": [
+        {
+          "type": "video",
+          "src": "m3_1.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m3_2.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m3_3.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m3_4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_7.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_10.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_11.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_12.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_13.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_14.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_15.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_16.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_17.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m3_18.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m3_19.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_20.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_21.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_22.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_23.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_24.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m3_25.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m3_26.mp4"
+        }
+      ],
+      "music": {
+        "src": "m3_music.mp3",
+        "name": "Tu Kisi Rail Si  Masaan  Vicky Kaushal & Shweta Tripathi  Swanand Kirkire  Indian Ocean Lyrical.mp3",
+        "loop": true,
+        "duck": true
+      }
+    },
+    {
+      "id": "m_1782144085538_0i1fq",
+      "title": "1st three months, part 1",
+      "desc": "Hi babe, this is part 1 of how our 1st three months at IIMR went",
+      "createdAt": 1782144085538,
+      "favorite": false,
+      "items": [
+        {
+          "type": "video",
+          "src": "m4_1.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m4_2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_7.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_10.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_11.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_12.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_13.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_14.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_15.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_16.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_17.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_18.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_19.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_20.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m4_21.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m4_22.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_23.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_24.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m4_25.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m4_26.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_28.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_29.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m4_30.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m4_31.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_32.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_33.jpg"
+        },
+        {
+          "type": "video",
+          "src": "m4_34.mp4"
+        },
+        {
+          "type": "image",
+          "src": "m4_35.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_36.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_37.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_38.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_39.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_40.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_41.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_42.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_43.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_44.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_45.jpg"
+        },
+        {
+          "type": "image",
+          "src": "m4_46.jpg"
+        }
+      ],
+      "music": {
+        "src": "m4_music.mp3",
+        "name": "Apocalypse - Cigarettes After Sex.mp3",
+        "loop": true,
+        "duck": true
+      }
+    }
+  ]
+}

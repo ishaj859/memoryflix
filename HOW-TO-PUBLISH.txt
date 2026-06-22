@@ -1,0 +1,58 @@
+HOW TO PUBLISH YOUR MEMORYFLIX (with your real photos & videos)
+================================================================
+
+You downloaded a ZIP. Unzip it. Inside you will find:
+  - index.html              (your view-only MEMORYFLIX site)
+  - memories.json           (your memories list + titles + order)
+  - upload-batch-1, -2 ...  (folders that GROUP your media into sets of
+                              fewer than 100 files, so GitHub will accept them)
+  - HOW-TO-PUBLISH.txt       (this file)
+
+IMPORTANT: the upload-batch folders are only to help you upload in groups.
+On GitHub, all the photo/video files must end up sitting TOGETHER in the main
+repo (not inside any folder). So you upload the CONTENTS of each batch folder,
+not the folder itself. Steps below make this easy.
+
+------------------------------------------------
+PUBLISH ON GITHUB PAGES (free)
+------------------------------------------------
+1. Go to your repository: github.com/ishaj859/memoryflix
+
+2. DELETE the old index.html (the empty one), if it is still there:
+   - Click index.html -> the "..." (three dots) at top right -> Delete file.
+   - Scroll down -> Commit changes.
+
+3. Upload the two small files:
+   - Add file -> Upload files.
+   - Drag in index.html AND memories.json.
+   - Commit changes.
+
+4. Upload each batch's CONTENTS, one batch at a time:
+   - Add file -> Upload files.
+   - Open the folder "upload-batch-1" on your computer.
+   - Inside it, press Cmd+A to select ALL the files.
+   - Drag those selected files into the GitHub upload box.
+     (You are dragging the FILES, not the folder. They will land in the
+      main repo together - exactly what we want.)
+   - Wait for them to finish, then Commit changes.
+   - Repeat for upload-batch-2, upload-batch-3, ... until all are done.
+
+5. Wait 1-2 minutes, then open your site:
+   https://ishaj859.github.io/memoryflix/
+
+   Your memories now appear exactly as you arranged them. Press Play on any
+   one to watch it as a movie with your music. The site is view-only.
+
+------------------------------------------------
+IMPORTANT NOTES
+------------------------------------------------
+- Do NOT rename the media files. Their names must stay exactly as exported.
+
+- GitHub blocks single files larger than 100 MB. If one video is bigger
+  than that, that one upload fails. Trim/compress that clip and re-export.
+
+------------------------------------------------
+TO UPDATE LATER
+------------------------------------------------
+Open your EDITABLE MEMORYFLIX (the index.html that lets you add memories),
+make changes, click Export again, and re-upload.
